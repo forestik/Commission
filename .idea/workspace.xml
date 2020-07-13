@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01d52185-5c0f-456f-9187-1fa6990234f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Administrator" />
+  </component>
+  <component name="ProjectId" id="1ePGmagcFkFr09D5lkPx6ekTblT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Administrator" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01d52185-5c0f-456f-9187-1fa6990234f5" name="Default Changelist" comment="" />
+      <created>1594215973522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594215973522</updated>
+      <workItem from="1594215974724" duration="8000" />
+      <workItem from="1594216007218" duration="19000" />
+      <workItem from="1594227600146" duration="11000" />
+      <workItem from="1594227918577" duration="67000" />
+      <workItem from="1594227995220" duration="9000" />
+      <workItem from="1594228038728" duration="51000" />
+      <workItem from="1594280239828" duration="254000" />
+      <workItem from="1594280621968" duration="114000" />
+      <workItem from="1594280752096" duration="239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594280869274">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1594280869274" />
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594280323422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1594280323422" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1594280760388">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594280760388" />
+    <state x="639" y="305" key="Github.ShareDialog" timestamp="1594280856228">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="639" y="305" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1594280856228" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1594280484454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594280484454" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1594280752144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1594280752144" />
+  </component>
+</project>

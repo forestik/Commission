@@ -1,0 +1,12 @@
+com\faculty\rest\FacultyController.class
+com\faculty\entity\Abiturient.class
+com\faculty\entity\Statement.class
+com\faculty\service\FacultyServiceImpl.class
+com\faculty\service\FacultyService.class
+com\faculty\entity\Faculty.class
+com\faculty\resource\AdministratorResource.class
+com\faculty\entity\Subject.class
+com\faculty\FacultyApplication.class
+com\faculty\entity\Administrator.class
+com\faculty\repository\FacultyRepo.class
+com\faculty\entity\Mark.class
